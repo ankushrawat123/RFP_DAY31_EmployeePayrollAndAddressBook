@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RFP_DAY31_EmployeePayrollAndAddressBook", "RFP_DAY31_EmployeePayrollAndAddressBook\RFP_DAY31_EmployeePayrollAndAddressBook.csproj", "{0BEB5437-C5AD-4787-A87B-5209AEED46F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BEB5437-C5AD-4787-A87B-5209AEED46F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BEB5437-C5AD-4787-A87B-5209AEED46F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BEB5437-C5AD-4787-A87B-5209AEED46F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BEB5437-C5AD-4787-A87B-5209AEED46F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5EDE992-0A6B-4E0A-ADE6-899AABBC2907}
+	EndGlobalSection
+EndGlobal
